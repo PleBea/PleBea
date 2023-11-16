@@ -1,12 +1,12 @@
 <div>
-  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true">
+  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=plebea&show_icons=true">
   <!--<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&hide=tex&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">-->
-  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmagur1203&layout=compact">
+  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=plebea&layout=compact">
   <!--<img align='left' width="100%" src="https://github-profile-trophy.vercel.app/?username=rmagur1203">-->
 </div>
 
 ## Introduction
-I am a backend developer currently studying at Sunrin Internet High School.
+I am a frotend developer currently studying at Sunrin Internet High School.
 
 ## Tech Stacks
 
@@ -14,25 +14,17 @@ I am a backend developer currently studying at Sunrin Internet High School.
   <!-- Language -->
   <img src="https://img.shields.io/badge/C-A8B9CC?logoColor=FFFFFF&logo=C&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logoColor=FFFFFF&logo=C%2B%2B&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?logoColor=FFFFFF&logo=C%20Sharp&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logoColor=FFFFFF&logo=Python&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=FFFFFF&logo=Javascript&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=TypeScript&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?logoColor=FFFFFF&logo=Dart&style=flat-square"> &nbsp;
   <br>
   <!-- Framework -->
-  <img src="https://img.shields.io/badge/.NET-512BD4?logoColor=FFFFFF&logo=.NET&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?logoColor=FFFFFF&logo=Xamarin&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?logoColor=FFFFFF&logo=Node.js&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Express-000000?logoColor=FFFFFF&logo=express&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Nest.JS-E0234E?logoColor=FFFFFF&logo=NestJS&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Next.JS-000000?logoColor=FFFFFF&logo=Next.JS&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Unity-000000?logoColor=FFFFFF&logo=Unity&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logoColor=FFFFFF&logo=TensorFlow&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logoColor=FFFFFF&logo=PyTorch&style=flat-square"> &nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?logoColor=FFFFFF&logo=Flutter&style=flat-square"> &nbsp;
   <br>
   <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub_Actions-181717?logoColor=FFFFFF&logo=github&style=flat-square"> &nbsp;
@@ -53,5 +45,4 @@ I am a backend developer currently studying at Sunrin Internet High School.
 
 ## Accounts
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logoColor=FFFFFF&logo=Discord&style=flat-square)](https://discord.com/users/274116806795329538)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?logoColor=FFFFFF&logo=Tistory&style=flat-square)](https://rmagur1203.tistory.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logoColor=FFFFFF&logo=Discord&style=flat-square)](https://discord.com/users/369000006729859072)
