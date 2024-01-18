@@ -4,7 +4,7 @@
 </div>
 
 ## Introduction
-I am a frotend developer currently studying at Sunrin Internet High School.
+I am a frontend developer currently studying at Sunrin Internet High School.
 
 ## Tech Stacks
 
