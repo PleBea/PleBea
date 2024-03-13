@@ -1,4 +1,4 @@
-<div>
+<div style="z-index: 100;">
   <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=plebea&show_icons=true">
   <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=plebea&layout=compact">
 </div>
